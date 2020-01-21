@@ -23,7 +23,7 @@
 * Cognito => to make use of provided identity provider based login
 * Amplify => for usage in code to connect with cognito: [docs](https://aws-amplify.github.io/docs/android/authentication)
 * IAM => to create roles / permissions for s3 bucket
-* S3 => storage for the app related objects for users
+* S3 => unstructured file storage for the app related objects for users
 * DynamoDb => noSql db to store the app related info for users
 
 -------------------------------------------------------------------------------------------------------------------------------
