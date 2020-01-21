@@ -30,7 +30,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 ### Pricing:
 * Cognito => **regular**: First 50,000	monthly active users Free, **free tier**: free with limitations, [cognito pricing](https://aws.amazon.com/cognito/pricing/)
-* Amplify => free, only libraries are needed, it seems
+* Amplify => free, only libraries are needed, it seems, [amplify docs](https://aws-amplify.github.io/docs/js/authentication)
 * IAM => free
 * S3 => **regular**: First 50 TB / Month	$0.023 per GB, **free tier**: free with limitations, [s3 pricing](https://aws.amazon.com/s3/pricing/)
 * CloudFront => **regular**: on-demand, data out: First 10TB: $0.085 per GB, **free tier**: free with limitations [cloudFront pricing](https://aws.amazon.com/cloudfront/pricing/)
