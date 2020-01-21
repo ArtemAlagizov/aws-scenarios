@@ -24,6 +24,7 @@
 * Amplify => for usage in code to connect with cognito: [docs](https://aws-amplify.github.io/docs/android/authentication)
 * IAM => to create roles / permissions for s3 bucket
 * S3 => unstructured file storage for the app related objects for users
+* CloudFront => alternative to S3, used to deliver static assets to the users
 * DynamoDb => noSql db to store the app related info for users
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -32,6 +33,7 @@
 * Amplify => free, only libraries are needed, it seems
 * IAM => free
 * S3 => **regular**: First 50 TB / Month	$0.023 per GB, **free tier**: free with limitations, [s3 pricing](https://aws.amazon.com/s3/pricing/)
+* CloudFront => to do
 * DynamoDb => **regular**: complex calculations, **free tier**: free with limitations, [cognito pricing](https://aws.amazon.com/dynamodb/pricing/provisioned/)
 
 -------------------------------------------------------------------------------------------------------------------------------
