@@ -16,7 +16,7 @@
   * Session token
 
 
-
+![testImage](https://github.com/ArtemAlagizov/aws-scenarios/blob/master/images/mobile-app-web-identity-federation.diagram.png)
 
 -------------------------------------------------------------------------------------------------------------------------------
 ### Used aws services:
