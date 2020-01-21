@@ -38,5 +38,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 ### Source info: 
-* https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_cognito.html
-* https://github.com/aws-amplify/amplify-js/issues/4388
+* [cognito with oidc](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_cognito.html)
+* [amplify example with expo by a geezer](https://github.com/aws-amplify/amplify-js/issues/4388)
+* [amazon blogpost on cloudfront + s3](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/)
