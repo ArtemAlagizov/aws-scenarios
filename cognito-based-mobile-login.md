@@ -15,8 +15,7 @@
   * Secret access key
   * Session token
 
-
-![testImage](https://github.com/ArtemAlagizov/aws-scenarios/blob/master/images/mobile-app-web-identity-federation.diagram.png)
+[testImage](https://github.com/ArtemAlagizov/aws-scenarios/blob/master/images/mobile-app-web-identity-federation.diagram.png)
 
 -------------------------------------------------------------------------------------------------------------------------------
 ### Used aws services:
@@ -24,7 +23,7 @@
 * Amplify => for usage in code to connect with cognito: [docs](https://aws-amplify.github.io/docs/android/authentication)
 * IAM => to create roles / permissions for s3 bucket
 * S3 => unstructured file storage for the app related objects for users
-* CloudFront => alternative to S3, used to deliver static assets to the users
+* CloudFront => combined with S3 to deliver static assets to the users
 * DynamoDb => noSql db to store the app related info for users
 
 -------------------------------------------------------------------------------------------------------------------------------
