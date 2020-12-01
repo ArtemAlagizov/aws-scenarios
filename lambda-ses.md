@@ -62,7 +62,7 @@ exports.handler = async (event) => {
 }
 ```
 * attach role to the lambda
-* give ec2/app permissions to call lambda
+* give ec2/app permissions to call lambda (create user, role and attach the following policy)
 ```json
 {
     "Version": "2012-10-17",
