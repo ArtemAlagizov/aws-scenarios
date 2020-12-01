@@ -46,7 +46,7 @@ exports.handler = async (event) => {
 };
 ```
 * give lambda permissions to send emails -> create role with policy (make resource more scrict)
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -63,7 +63,7 @@ exports.handler = async (event) => {
 ```
 * attach role to the lambda
 * give ec2/app permissions to call lambda
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
